@@ -58,6 +58,14 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 
 "UI kit to make beautiful, animated interfaces, faster." Features text effects, morphing dialogs, infinite sliders, cursor effects, and border trails. Open-source with easy copy-paste components and regular updates.
 
+---
+
+### [Tremor](https://tremor.so/)
+**Framework:** React, Tailwind CSS, Radix UI, Recharts  
+**Focus:** Data visualization and dashboards  
+
+"Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards." 35+ components including donut charts, data bars, spark charts, and KPI cards. 300+ block examples with 15K+ GitHub stars.
+
 ## Quick Reference
 
 | Library | Components | Best For | License |
@@ -69,6 +77,7 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 | ShadCN Registry | Various | Component Discovery | Open Source |
 | 21st.dev | 400+ | AI-Assisted Development | - |
 | Motion Primitives | 20+ | Animated Components | Open Source |
+| Tremor | 35+ | Data Visualization | Open Source |
 
 ## Contributing
 
