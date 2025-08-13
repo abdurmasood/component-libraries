@@ -50,6 +50,14 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 
 "Craft with AI. Build with AI. Build with your team's taste." 400+ components with AI-driven creation, marketplace for sharing, and rapid prototyping capabilities for enhanced developer productivity.
 
+---
+
+### [Motion Primitives](https://motion-primitives.com/)
+**Framework:** React, Next.js, Tailwind CSS  
+**Focus:** Animated UI components  
+
+"UI kit to make beautiful, animated interfaces, faster." Features text effects, morphing dialogs, infinite sliders, cursor effects, and border trails. Open-source with easy copy-paste components and regular updates.
+
 ## Quick Reference
 
 | Library | Components | Best For | License |
@@ -60,6 +68,7 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 | Skiper UI | 10+ | Minimalist Design | - |
 | ShadCN Registry | Various | Component Discovery | Open Source |
 | 21st.dev | 400+ | AI-Assisted Development | - |
+| Motion Primitives | 20+ | Animated Components | Open Source |
 
 ## Contributing
 
