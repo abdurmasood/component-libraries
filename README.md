@@ -1,6 +1,6 @@
 # Component Libraries Catalog
 
-A curated collection of modern React component libraries for rapid development.
+A curated collection of my favourite React component libraries for rapid development.
 
 ## Libraries
 
