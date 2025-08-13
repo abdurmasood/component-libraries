@@ -60,3 +60,24 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 | Skiper UI | 10+ | Minimalist Design | - |
 | ShadCN Registry | Various | Component Discovery | Open Source |
 | 21st.dev | 400+ | AI-Assisted Development | - |
+
+## Contributing
+
+Contributions are welcome! If you know of other excellent React component libraries that should be included in this catalog, please:
+
+1. **Fork** this repository
+2. **Add** the new library following the existing format:
+   - Include framework/technology stack
+   - Describe the focus area and unique features
+   - Add to the Quick Reference table
+3. **Submit** a pull request with a clear description
+
+### Contribution Guidelines
+
+- Libraries should be actively maintained
+- Focus on React-based component libraries
+- Include accurate component counts and licensing information
+- Maintain consistent formatting and concise descriptions
+- Verify all links are working
+
+Found a broken link or outdated information? Please open an issue or submit a PR to keep this catalog current and useful for the community.
