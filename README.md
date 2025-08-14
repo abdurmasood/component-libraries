@@ -66,6 +66,14 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 
 "Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards." 35+ components including donut charts, data bars, spark charts, and KPI cards. 300+ block examples with 15K+ GitHub stars.
 
+---
+
+### [Inspira UI](https://inspira-ui.com/)
+**Framework:** Vue, Nuxt.js, Tailwind CSS, @vueuse/motion, shadcn-vue  
+**Focus:** Animation-rich Vue components  
+
+"Build beautiful websites using Vue & Nuxt." 100+ copy-paste components with smooth animations and transitions. Features stunning hero sections, 3D card effects, animated backgrounds, and micro-interactions for landing pages, portfolios, and SaaS applications.
+
 ## Quick Reference
 
 | Library | Components | Best For | License |
@@ -78,6 +86,7 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 | 21st.dev | 400+ | AI-Assisted Development | - |
 | Motion Primitives | 20+ | Animated Components | Open Source |
 | Tremor | 35+ | Data Visualization | Open Source |
+| Inspira UI | 100+ | Vue/Nuxt Animation | MIT |
 
 ## Contributing
 
