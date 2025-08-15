@@ -36,6 +36,14 @@ Plug-and-play UI sections for MVPs, landing pages, and SaaS projects. Over 100 r
 
 ---
 
+### [shadcn/ui](https://ui.shadcn.com/)
+**Framework:** React, TypeScript, Tailwind CSS, Radix UI  
+**Focus:** Copy-paste components with accessibility  
+
+"Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source." Built on Radix UI primitives with Tailwind CSS styling. Features 50+ components including forms, navigation, data display, and feedback elements with full accessibility support.
+
+---
+
 ### [ShadCN Registry](https://shadcnregistry.com/)
 **Framework:** React, TypeScript, Tailwind CSS, Next.js  
 **Focus:** Component discovery platform  
@@ -82,6 +90,7 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 | SHSF UI | 10+ | Motion Interactions | Open Source |
 | Origin UI | 400+ | General Purpose | Open Source |
 | Skiper UI | 10+ | Minimalist Design | - |
+| shadcn/ui | 50+ | Accessible Components | MIT |
 | ShadCN Registry | Various | Component Discovery | Open Source |
 | 21st.dev | 400+ | AI-Assisted Development | - |
 | Motion Primitives | 20+ | Animated Components | Open Source |
