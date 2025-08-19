@@ -20,6 +20,14 @@ Plug-and-play UI sections for MVPs, landing pages, and SaaS projects. Over 100 r
 
 ---
 
+### [Smooth UI](https://smoothui.dev/)
+**Framework:** React, TypeScript, Tailwind CSS v4, Framer Motion  
+**Focus:** Smooth animated components  
+
+"Super Smooth UI Components for Every Team." Production-ready components with built-in animations, dark/light mode support, and server component compatibility. Features animated tags, expandable cards, dynamic island, and number flow components.
+
+---
+
 ### [Origin UI](https://originui.com/)
 **Framework:** React, Tailwind CSS  
 **Focus:** Comprehensive component collection  
@@ -88,6 +96,7 @@ Registry platform aggregating multiple ShadCN UI-based component libraries. Incl
 |---------|------------|----------|---------|
 | MVPBlocks | 100+ | MVPs & Landing Pages | BSD 3-Clause |
 | SHSF UI | 10+ | Motion Interactions | Open Source |
+| Smooth UI | 15+ | Animated Components | MIT |
 | Origin UI | 400+ | General Purpose | Open Source |
 | Skiper UI | 10+ | Minimalist Design | - |
 | shadcn/ui | 200+ | Production-Ready Components | MIT |
